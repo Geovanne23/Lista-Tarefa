@@ -1,12 +1,25 @@
-# React + Vite
+# 📝 TodoApp - Lista de Tarefas com React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto simples de lista de tarefas feito com **React** usando **Vite** para desenvolvimento rápido.
 
-Currently, two official plugins are available:
+## ✨ Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Adicionar tarefas
+- Remover tarefas
+- Salvar automaticamente no navegador (localStorage)
+- Carregamento automático das tarefas salvas
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologias
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- localStorage
+- Hooks (useState, useEffect)
+
+## 💻 Como usar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/seu-repo.git
+npm install
+npm run dev
