@@ -1,4 +1,4 @@
-# 📝 TodoApp - Lista de Tarefas com React + Vite
+# 📝 - Lista de Tarefas com React
 
 Este é um projeto simples de lista de tarefas feito com **React** usando **Vite** para desenvolvimento rápido.
 
@@ -6,7 +6,6 @@ Este é um projeto simples de lista de tarefas feito com **React** usando **Vite
 
 - Adicionar tarefas
 - Remover tarefas
-- Salvar automaticamente no navegador (localStorage)
 - Carregamento automático das tarefas salvas
 
 ## 🚀 Tecnologias
